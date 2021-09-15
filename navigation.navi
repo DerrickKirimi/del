@@ -1,16 +1,15 @@
 //mainActiv
 drawerLayout
 nav con
-view setup - setupwithNavco
+view setupwithNavco
 appbarconfig
-set actionbarwithnav
+setup actionbarwithnav(navcon, appbarconfig)
 menu xml - link fragment destinations
 nav view xml - link menu
-mainActiv CTRL O 
 listener - navco.ondestchanged
 // args (2) { con, dest, args ->
 //if dest 1 suppo action toolbar setbackcolour 
-//override 
+// mainActiv CTRL O  override 
  onresume
     navco.addondestchangedlistener(listener)
 onpause
