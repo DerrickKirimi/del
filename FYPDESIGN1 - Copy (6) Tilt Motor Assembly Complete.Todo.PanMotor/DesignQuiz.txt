@@ -1,0 +1,46 @@
+Give me a list of camera modules compatible with the raspberry pi 4
+Sent message. Give me a list of camera modules compatible with the raspberry pi 4
+Searching for: camera modules compatible with raspberry pi 4
+
+Searching for: camera modules compatible with raspberry pi 4
+
+Generating answers for you…
+
+Generating answers for you…
+
+Here are some camera modules that are compatible with Raspberry Pi 4:
+
+Official Raspberry Pi Camera Board Module
+Arducam 5 MP OV5647 Sensor Mini Camera Video Module
+Raspberry Pi Camera Module Version 2
+Waveshare Raspberry Pi Night Vision Camera
+Pixy (CMUcam5) Object Tracking Camera with Smart Vision Sensor
+Raspberry Pi Infrared Camera Module
+Raspberry Pi Wide Angle Camera Module
+IMX219-77 Replacement Camera Module
+IMX219-160 Replacement Camera Module1
+I hope this helps! Let me know if you have any other questions.
+
+Received message. Here are some camera modules that are compatible with Raspberry Pi 4: 1. Official Raspberry Pi Camera Board Module 2. Arducam 5 MP OV5647 Sensor Mini Camera Video Module 3. Raspberry Pi Camera Module Version 2 4. Waveshare Raspberry Pi Night Vision Camera 5. Pixy (CMUcam5) Object Tracking Camera with Smart Vision Sensor 6. Raspberry Pi Infrared Camera Module 7. Raspberry Pi Wide Angle Camera Module 8. IMX219-77 Replacement Camera Module 9. IMX219-160 Replacement Camera Module I hope this helps! Let me know if you have any other questions.
+Learn more:
+1. raspberrypistarterkits.com
+2. androidcentral.com
+3. projects.raspberrypi.org
+4. pcguide.com
++2 more
+1
+of
+5
+Compare number 8 and 9
+Sent message. Compare number 8 and 9
+Searching for: IMX219-77 vs IMX219-160
+
+Searching for: IMX219-77 vs IMX219-160
+
+Generating answers for you…
+
+Generating answers for you…
+
+The IMX219-77 and IMX219-160 are both replacement camera modules for the Raspberry Pi. The IMX219-77 has a resolution of 8 megapixels and a 77-degree field of view. It is compatible with Jetson Nano and CM3/3+/4 expansion boards like Raspberry Pi Compute Module IO board, Compute Module IO Board Plus, Compute Module POE Board of Waveshare, and the StereoPi board1. The IMX219-160 has a resolution of 8 megapixels and a 160-degree field of view. It is also compatible with Jetson Nano1.
+
+I hope this helps! Let me know if you have any other questions.
